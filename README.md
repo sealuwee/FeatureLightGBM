@@ -1,5 +1,4 @@
 # FeatureLightGBM
-script for Kaggle Two Sigma competition
 
 # Two Sigma: Using News to Predict Stock Movements
 
